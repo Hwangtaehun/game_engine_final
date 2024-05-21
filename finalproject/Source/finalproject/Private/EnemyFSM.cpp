@@ -126,7 +126,7 @@ void UEnemyFSM::AttackState()
 	}
 
 	float distance = FVector::Distance(target->GetActorLocation(), me->GetActorLocation());
-	if (distance < attackRange) {
+	if (distance > attackRange) {
 		mState = EEnemyState::Move;
 		anim->animState = mState;
 

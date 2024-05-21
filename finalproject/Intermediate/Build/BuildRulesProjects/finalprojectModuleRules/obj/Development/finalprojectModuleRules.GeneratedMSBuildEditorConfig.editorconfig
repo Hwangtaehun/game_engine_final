@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = finalprojectModuleRules
-build_property.ProjectDir = D:\Github\game_engine\finalproject\Intermediate\Build\BuildRulesProjects\finalprojectModuleRules\
+build_property.ProjectDir = D:\Github\game_engine_unreal_final\finalproject\Intermediate\Build\BuildRulesProjects\finalprojectModuleRules\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -198,15 +198,15 @@ void EmptyLinkFunctionForGeneratedCodePlayerFire() {}
 	}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(UPlayerFire);
 	UPlayerFire::~UPlayerFire() {}
-	struct Z_CompiledInDeferFile_FID_Github_game_engine_finalproject_Source_finalproject_Public_PlayerFire_h_Statics
+	struct Z_CompiledInDeferFile_FID_Github_game_engine_unreal_final_finalproject_Source_finalproject_Public_PlayerFire_h_Statics
 	{
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
-	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Github_game_engine_finalproject_Source_finalproject_Public_PlayerFire_h_Statics::ClassInfo[] = {
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Github_game_engine_unreal_final_finalproject_Source_finalproject_Public_PlayerFire_h_Statics::ClassInfo[] = {
 		{ Z_Construct_UClass_UPlayerFire, UPlayerFire::StaticClass, TEXT("UPlayerFire"), &Z_Registration_Info_UClass_UPlayerFire, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UPlayerFire), 177320069U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Github_game_engine_finalproject_Source_finalproject_Public_PlayerFire_h_3332920806(TEXT("/Script/finalproject"),
-		Z_CompiledInDeferFile_FID_Github_game_engine_finalproject_Source_finalproject_Public_PlayerFire_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Github_game_engine_finalproject_Source_finalproject_Public_PlayerFire_h_Statics::ClassInfo),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Github_game_engine_unreal_final_finalproject_Source_finalproject_Public_PlayerFire_h_3332920806(TEXT("/Script/finalproject"),
+		Z_CompiledInDeferFile_FID_Github_game_engine_unreal_final_finalproject_Source_finalproject_Public_PlayerFire_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Github_game_engine_unreal_final_finalproject_Source_finalproject_Public_PlayerFire_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

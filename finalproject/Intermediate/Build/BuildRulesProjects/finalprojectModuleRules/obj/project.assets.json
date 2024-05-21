@@ -8070,11 +8070,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\game_engine\\finalproject\\Intermediate\\Build\\BuildRulesProjects\\finalprojectModuleRules\\finalprojectModuleRules.csproj",
+      "projectUniqueName": "D:\\Github\\game_engine_unreal_final\\finalproject\\Intermediate\\Build\\BuildRulesProjects\\finalprojectModuleRules\\finalprojectModuleRules.csproj",
       "projectName": "finalprojectModuleRules",
-      "projectPath": "D:\\Github\\game_engine\\finalproject\\Intermediate\\Build\\BuildRulesProjects\\finalprojectModuleRules\\finalprojectModuleRules.csproj",
+      "projectPath": "D:\\Github\\game_engine_unreal_final\\finalproject\\Intermediate\\Build\\BuildRulesProjects\\finalprojectModuleRules\\finalprojectModuleRules.csproj",
       "packagesPath": "C:\\Users\\r283\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\game_engine\\finalproject\\Intermediate\\Build\\BuildRulesProjects\\finalprojectModuleRules\\obj\\",
+      "outputPath": "D:\\Github\\game_engine_unreal_final\\finalproject\\Intermediate\\Build\\BuildRulesProjects\\finalprojectModuleRules\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
