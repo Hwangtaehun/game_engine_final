@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\github\\game_engine_unreal_final\\finalproject\\intermediate\\build\\win64\\unrealgame\\inc\\finalproject\\uht\\finalproject.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github\\game_engine_unreal_final\\finalproject\\intermediate\\build\\win64\\x64\\finalproject\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\github\\game_engine_unreal_final\\finalproject\\intermediate\\build\\win64\\x64\\unrealgame\\development\\finalproject\\definitions.finalproject.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
