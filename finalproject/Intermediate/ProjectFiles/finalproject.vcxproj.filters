@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\finalproject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\finalproject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\finalprojectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\finalproject">
+      <UniqueIdentifier>{4FB1C9E2-0069-3A41-97C6-C4474F7022F4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\finalproject\finalproject.Build.cs">
+      <Filter>Source\finalproject</Filter>
+    </None>
+    <Filter Include="Source\finalproject\Private">
+      <UniqueIdentifier>{08C71C4B-AE20-3C3E-8DCA-42B120FBFF80}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\finalproject\Private\Bullet.cpp">
+      <Filter>Source\finalproject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\finalproject\Private\Enemy.cpp">
+      <Filter>Source\finalproject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\finalproject\Private\EnemyAnim.cpp">
+      <Filter>Source\finalproject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\finalproject\Private\EnemyFSM.cpp">
+      <Filter>Source\finalproject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\finalproject\Private\EnemyManager.cpp">
+      <Filter>Source\finalproject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\finalproject\Private\finalproject.cpp">
+      <Filter>Source\finalproject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\finalproject\Private\finalprojectGameModeBase.cpp">
+      <Filter>Source\finalproject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\finalproject\Private\PlayerAnim.cpp">
+      <Filter>Source\finalproject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\finalproject\Private\PlayerBaseComponent.cpp">
+      <Filter>Source\finalproject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\finalproject\Private\PlayerFire.cpp">
+      <Filter>Source\finalproject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\finalproject\Private\PlayerMove.cpp">
+      <Filter>Source\finalproject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\finalproject\Private\TPSPlayer.cpp">
+      <Filter>Source\finalproject\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\finalproject\Public">
+      <UniqueIdentifier>{BC5B9346-CD4A-31DA-B553-D2042911610E}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\finalproject\Public\Bullet.h">
+      <Filter>Source\finalproject\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\finalproject\Public\Enemy.h">
+      <Filter>Source\finalproject\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\finalproject\Public\EnemyAnim.h">
+      <Filter>Source\finalproject\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\finalproject\Public\EnemyFSM.h">
+      <Filter>Source\finalproject\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\finalproject\Public\EnemyManager.h">
+      <Filter>Source\finalproject\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\finalproject\Public\finalproject.h">
+      <Filter>Source\finalproject\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\finalproject\Public\finalprojectGameModeBase.h">
+      <Filter>Source\finalproject\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\finalproject\Public\PlayerAnim.h">
+      <Filter>Source\finalproject\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\finalproject\Public\PlayerBaseComponent.h">
+      <Filter>Source\finalproject\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\finalproject\Public\PlayerFire.h">
+      <Filter>Source\finalproject\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\finalproject\Public\PlayerMove.h">
+      <Filter>Source\finalproject\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\finalproject\Public\TPSPlayer.h">
+      <Filter>Source\finalproject\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

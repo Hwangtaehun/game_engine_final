@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\github\\game_engine\\finalproject\\intermediate\\build\\win64\\unrealeditor\\inc\\finalproject\\uht\\playeranim.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github\\game_engine\\finalproject\\intermediate\\build\\win64\\x64\\finalprojecteditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\github\\game_engine\\finalproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\finalproject\\definitions.finalproject.h",
+            "d:\\github\\game_engine\\finalproject\\source\\finalproject\\public\\playeranim.h",
+            "d:\\github\\game_engine\\finalproject\\intermediate\\build\\win64\\unrealeditor\\inc\\finalproject\\uht\\playeranim.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
